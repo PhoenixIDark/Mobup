@@ -291,4 +291,34 @@ LogInit: Object subsystem initialized
 [2016.10.16-04.35.55:226][387]LogSavePackage: Moving '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/Mobup445305AC446B98C00499ED842AB28B9B.tmp' to '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap'
 [2016.10.16-04.35.55:227][387]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap
 [2016.10.16-04.35.55:290][387]LogFileHelpers: Saving map 'Mobup' took 1.277
-[2016.10.16-04.35.55:403][392]SourceControl: Info fatal: /Temp/Untit
+[2016.10.16-04.35.55:403][392]SourceControl: Info fatal: /Temp/Untitled_1: '/Temp/Untitled_1' is outside repository
+[2016.10.16-04.35.57:285][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mobup" FILE="../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.16-04.35.57:323][498]LogSavePackage: Save=26.53ms
+[2016.10.16-04.35.57:323][498]LogSavePackage: Moving '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/MobupC9E6C886451FD839D7919C9002B39B38.tmp' to '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap'
+[2016.10.16-04.35.57:325][498]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap
+[2016.10.16-04.36.12:076][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mobup" FILE="../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.16-04.36.12:116][375]LogSavePackage: Save=27.29ms
+[2016.10.16-04.36.12:116][375]LogSavePackage: Moving '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/MobupD659DBB543A21BB7AF9F26ACBCFD9713.tmp' to '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap'
+[2016.10.16-04.36.12:117][375]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Content/Mobup.umap
+[2016.10.16-04.36.31:269][512]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.10.16-04.36.40:670][512]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.10.16-04.36.40:712][512]SourceControl: Info [master 7f8cb59] Start
+[2016.10.16-04.36.40:712][512]SourceControl: Info  Committer: Kevin Force <Kevin Force>
+[2016.10.16-04.36.40:712][512]SourceControl: Info Your name and email address were configured automatically based
+[2016.10.16-04.36.40:712][512]SourceControl: Info on your username and hostname. Please check that they are accurate.
+[2016.10.16-04.36.40:712][512]SourceControl: Info You can suppress this message by setting them explicitly. Run the
+[2016.10.16-04.36.40:712][512]SourceControl: Info following command and follow the instructions in your editor to edit
+[2016.10.16-04.36.40:712][512]SourceControl: Info your configuration file:
+[2016.10.16-04.36.40:712][512]SourceControl: Info     git config --global --edit
+[2016.10.16-04.36.40:712][512]SourceControl: Info After doing this, you may fix the identity used for this commit with:
+[2016.10.16-04.36.40:712][512]SourceControl: Info     git commit --amend --reset-author
+[2016.10.16-04.36.40:712][512]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.10.16-04.36.40:718][512]SourceControl: Info Commited [master 7f8cb59] Start.
+[2016.10.16-04.36.40:718][512]SourceControl:Error: Error Operation 'CheckOut' not supported by source control provider 'Git'
+[2016.10.16-05.10.07:455][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mobup" FILE="../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/Autosaves/Game/UEDPCMobup.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.10.16-05.10.07:494][223]LogSavePackage: Save=27.90ms
+[2016.10.16-05.10.07:494][223]LogSavePackage: Moving '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/UEDPCMobup4CBE101F4A736D336BCCA9925CA52FC9.tmp' to '../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/Autosaves/Game/UEDPCMobup.umap'
+[2016.10.16-05.10.07:495][223]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/claude marion/Documents/Unreal Projects/Mobup/Saved/Autosaves/Game/UEDPCMobup.umap
+[2016.10.16-05.10.07:504][223]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.10.16-05.20.54:038][432]LogHttp:Warning: 0000028A71264100: request failed, libcurl error: 35 (SSL connect error)
+[2016.10.16-05.20.54:038][432]LogHttp:Warning: 0000028A71264100: libcu
